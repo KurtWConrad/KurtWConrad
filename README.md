@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KurtWConrad
 - 👀 I’m interested in XML-based knowledge flow formalizations
 - 🌱 I’m currently learning SUO-KIF, Flutter, Dart
-- 💞️ I’m looking to collaborate on semantic authoring and conversations to build consensus supporting creative change
+- 💞️ I’m looking to collaborate on semantic authoring and conversations to build consensus and accelerate creative change
 - 📫 Reach me at conrad@sagebrushgroup.com
 
 <!---
